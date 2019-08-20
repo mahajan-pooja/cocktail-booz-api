@@ -11,25 +11,25 @@
          "product_id":"1",
          "product_name":"Valentine's Day",
          "video_url":"https://content.jwplatform.com/videos/RcaRLM8Y-AprxzmbW.mp4",
-         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_valentines_day.png"
+         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_nonalcoholic.png"
       },
       {
          "product_id":"2",
          "product_name":"Rum",
          "video_url":"https://content.jwplatform.com/videos/zult4G0n-HTwjdeay.mp4",
-         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_base_drink_rum.png"
+         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_short.png"
       },
       {
          "product_id":"3",
          "product_name":"Spring",
          "video_url":"https://content.jwplatform.com/videos/RcaRLM8Y-AprxzmbW.mp4",
-         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_spring_is_here.png"
+         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_tropical.png"
       },
       {
          "product_id":"4",
          "product_name":"Super Slushies",
          "video_url":"https://content.jwplatform.com/videos/zult4G0n-HTwjdeay.mp4",
-         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_super_slushy_coolers_trio.png"
+         "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_frozen.png"
       }
    ]
 }
