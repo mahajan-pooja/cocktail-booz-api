@@ -1,0 +1,44 @@
+{
+    "recipes":[
+        {
+            "product_id":"1",
+            "product_name":"Brazil",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
+        },
+        {
+            "product_id":"2",
+            "product_name":"Canada",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png"
+        },
+        {
+            "product_id":"3",
+            "product_name":"Cuba",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_cuba.png"
+        },
+        {
+            "product_id":"4",
+            "product_name":"United Kingdom",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_england.png"
+        },
+        {
+            "product_id":"5",
+            "product_name":"France",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_france.png"
+        },
+        {
+            "product_id":"6",
+            "product_name":"Ireland",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_ireland.png"
+        },
+        {
+            "product_id":"7",
+            "product_name":"Italy",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_italy.png"
+        },
+        {
+            "product_id":"8",
+            "product_name":"Mexico",
+            "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_mexico.png"
+        }
+    ]
+}
