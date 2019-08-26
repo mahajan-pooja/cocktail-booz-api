@@ -1,0 +1,24 @@
+[
+    {
+        "result":[
+            {
+                "recipe_name":"Greentini",
+                "recipe_type":"Medium(18%)",
+                "recipe_image":"https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_rossini-1.png",
+                "ingredients": {
+                        "Gin",
+                        "Lemon Juice",
+                        "Raspberry",
+                        "Blue Berry" 
+                 },
+                 "procedure": {
+                        "Add raspberry, lemon, mint leaves",
+                        "Add sugar syrup, ice, gin",
+                        "Shake well",
+                        "Garnish with lemon spiral"
+                 }
+            }
+        ]
+    }
+]
+
