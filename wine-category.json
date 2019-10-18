@@ -1,7 +1,7 @@
 {
     "wines":[ 
         {
-          "wines-one":[
+          "wines-sub":[
                     {
                         "id":"1",
                         "name":"Chardonnay 2015",
@@ -29,7 +29,7 @@
                  ]
         },
         {
-          "wines-two":[
+          "wines-sub":[
                     {
                         "id":"1",
                         "name":"a",
