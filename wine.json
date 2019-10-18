@@ -1,26 +1,26 @@
 {
     "wines":[
         {
-            "wine_id":"1",
-            "product_name":"Chardonnay 2015",
+            "id":"1",
+            "name":"Chardonnay 2015",
             "category":"Jaggernaut",
             "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_valentines_day.png"
         },
         {
-            "wine_id":"2",
-            "product_name":"Summer",
+            "id":"2",
+            "name":"Summer",
             "category":"Jaggernaut",
             "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_base_drink_rum.png"
         },
         {
-            "wine_id":"3",
-            "product_name":"Spring",
+            "id":"3",
+            "name":"Spring",
             "category":"Jaggernaut",
             "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_spring_is_here.png"
         },
         {
-            "wine_id":"4",
-            "product_name":"Super Slushies",
+            "id":"4",
+            "name":"Super Slushies",
             "category":"Jaggernaut",
             "image":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_super_slushy_coolers_trio.png"
         }
