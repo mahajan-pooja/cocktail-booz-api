@@ -4,25 +4,25 @@
             "id":"1",
             "name":"Chardonnay 2015",
             "category":"Jaggernaut",
-            "image":"https://www.wine.com/product/images/w_480,h_600,c_fit,q_auto:good,fl_progressive/g5ga4ioq6j8nxgvroz4j.jpg"
+            "image":"https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/h43/hcd/8809135996958.png"
         },
         {
             "id":"2",
             "name":"Cabernet",
             "category":"Napa Valley",
-            "image":"https://www.wine.com/product/images/w_1920,h_6358,c_fit,q_auto:good,fl_progressive/tp9y7rwctmeho0ynwiwz.jpg"
+            "image":"https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/hbc/h54/11864997101598.png"
         },
         {
             "id":"3",
             "name":"Silver Oak",
             "category":"Sula Wines",
-            "image":"https://www.wine.com/product/images/w_1024,h_3442,c_fit,q_auto:good,fl_progressive/q4s27qfqtkwocma7p1du.jpg"
+            "image":"https://www.totalwine.com/dynamic/360x/media/sys_master/twmmedia/h6d/h26/10997589803038.png"
         },
         {
             "id":"4",
             "name":"Sparking Pride",
             "category":"York",
-            "image":"https://www.wine.com/product/images/w_480,h_600,c_fit,q_auto:good,fl_progressive/upxevttwwncld9jw3ots.jpg"
+            "image":"https://www.totalwine.com/dynamic/360x/media/sys_master/twmmedia/h74/hfb/8806096437278.png"
         }
     ]
 }
