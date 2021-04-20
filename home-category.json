@@ -1,26 +1,66 @@
 {
-   "main":[
-      {
-         "categoryId":"1",
-         "categoryName":"Valentine's Day",
-         "categoryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_valentines_day.png"
-      },
-      {
-         "categoryId":"2",
-         "categoryName":"Summer",
-         "categoryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_base_drink_rum.png"
-      }
-   ],
-   "country":[
-      {
-         "countryID":"1",
-         "countryName":"Brazil",
-         "countryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
-      },
-      {
-         "countryID":"2",
-         "countryName":"Canada",
-         "countryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png"
-      }
-   ]
+	"main": [
+		{
+			"categoryId": "1",
+			"categoryName": "Valentine's Day",
+			"categoryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_valentines_day.png"
+		},
+		{
+			"categoryId": "2",
+			"categoryName": "Summer",
+			"categoryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_base_drink_rum.png"
+		},
+		{
+			"categoryId": "3",
+			"categoryName": "Spring",
+			"categoryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_spring_is_here.png"
+		},
+		{
+			"categoryId": "4",
+			"categoryName": "Super Slushies",
+			"categoryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_super_slushy_coolers_trio.png"
+		}
+	],
+	"country": [
+		{
+			"countryID": "1",
+			"countryName": "Brazil",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
+		},
+		{
+			"countryID": "2",
+			"countryName": "Canada",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png"
+		},
+		{
+			"countryID": "3",
+			"countryName": "Cuba",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_cuba.png"
+		},
+		{
+			"countryID": "4",
+			"countryName": "United Kingdom",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_england.png"
+		},
+		{
+			"countryID": "5",
+			"countryName": "France",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_france.png"
+		},
+		{
+			"countryID": "6",
+			"countryName": "Ireland",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_ireland.png"
+		},
+		{
+			"countryID": "7",
+			"countryName": "Italy",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_italy.png"
+		},
+		{
+			"countryID": "8",
+			"countryName": "Mexico",
+			"countryImage": "https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_mexico.png"
+		}
+	]
 }
