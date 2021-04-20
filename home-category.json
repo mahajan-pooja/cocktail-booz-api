@@ -1,0 +1,26 @@
+{
+   "main":[
+      {
+         "categoryId":"1",
+         "categoryName":"Valentine's Day",
+         "categoryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_valentines_day.png"
+      },
+      {
+         "categoryId":"2",
+         "categoryName":"Summer",
+         "categoryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_base_drink_rum.png"
+      }
+   ],
+   "country":[
+      {
+         "countryID":"1",
+         "countryName":"Brazil",
+         "countryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
+      },
+      {
+         "countryID":"2",
+         "countryName":"Canada",
+         "countryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png"
+      }
+   ]
+}
