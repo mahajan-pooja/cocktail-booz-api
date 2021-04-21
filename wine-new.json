@@ -8,7 +8,7 @@
             "category":"Jaggernaut",
             "image":"https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/hb5/hd0/11589767495710.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"2",
@@ -16,7 +16,7 @@
             "category":"Napa Valley",
             "image":"https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/hbc/h54/11864997101598.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"3",
@@ -24,7 +24,7 @@
             "category":"Sula Wines",
             "image":"https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h5a/h24/10301735206942.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"4",
@@ -32,7 +32,7 @@
             "category":"York",
             "image":"https://www.totalwine.com/dynamic/360x/media/sys_master/twmmedia/h74/hfb/8806096437278.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          }
       ]
    },
@@ -45,7 +45,7 @@
             "category":"Jaggernaut",
             "image":"https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/ha7/hc7/11744014139422.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"2",
@@ -53,7 +53,7 @@
             "category":"Napa Valley",
             "image":"https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/ha5/hb0/9274423607326.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"3",
@@ -61,7 +61,7 @@
             "category":"Sula Wines",
             "image":"https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/h8c/hac/8812335169566.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"4",
@@ -69,7 +69,7 @@
             "category":"York",
             "image":"https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h54/hd8/11825856020510.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          }
       ]
    },
@@ -82,7 +82,7 @@
             "category":"Jaggernaut",
             "image":"https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/ha8/hff/11478558048286.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"2",
@@ -90,7 +90,7 @@
             "category":"Napa Valley",
             "image":"https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/he6/ha3/11975692320798.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"3",
@@ -98,7 +98,7 @@
             "category":"Sula Wines",
             "image":"https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h54/hd8/11825856020510.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          },
          {
             "id":"4",
@@ -106,7 +106,7 @@
             "category":"York",
             "image":"https://www.totalwine.com/dynamic/360x/media/sys_master/twmmedia/h74/hfb/8806096437278.png",
             "desc":"California- Fruit Cider- Ace's Pineapple Cider is a balanced, crisp, natural offering made with fresh pineapple and no added sugars. It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy.",
-            "desc-extra":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
+            "details":" It contains fewer calories than some of the industry's leading cider brands with zero artificial ingredients. Fruity, tropical & refreshing! Enjoy."
          }
       ]
    }
