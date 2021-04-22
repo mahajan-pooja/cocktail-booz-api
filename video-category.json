@@ -1,25 +1,27 @@
-{
-   "videoId":"1",
-   "videoTitle":"Valentine's Day",
-   "videoUrl":"https://content.jwplatform.com/videos/RcaRLM8Y-AprxzmbW.mp4",
-   "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_nonalcoholic.png"
-},
-{
-   "videoId":"2",
-   "videoTitle":"Classic",
-   "videoUrl":"https://content.jwplatform.com/videos/zult4G0n-HTwjdeay.mp4",
-   "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_classical_trio.png"
-},
-{
-   "videoId":"3",
-   "videoTitle":"Spring",
-   "videoUrl":"https://content.jwplatform.com/videos/RcaRLM8Y-AprxzmbW.mp4",
-   "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_tropical.png"
-},
-{
-   "videoId":"4",
-   "videoTitle":"Super Slushies",
-   "videoUrl":"https://content.jwplatform.com/videos/zult4G0n-HTwjdeay.mp4",
-   "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_frozen.png"
-}
+[
+   {
+      "videoId":"1",
+      "videoTitle":"Valentine's Day",
+      "videoUrl":"https://content.jwplatform.com/videos/RcaRLM8Y-AprxzmbW.mp4",
+      "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_nonalcoholic.png"
+   },
+   {
+      "videoId":"2",
+      "videoTitle":"Classic",
+      "videoUrl":"https://content.jwplatform.com/videos/zult4G0n-HTwjdeay.mp4",
+      "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_classical_trio.png"
+   },
+   {
+      "videoId":"3",
+      "videoTitle":"Spring",
+      "videoUrl":"https://content.jwplatform.com/videos/RcaRLM8Y-AprxzmbW.mp4",
+      "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_tropical.png"
+   },
+   {
+      "videoId":"4",
+      "videoTitle":"Super Slushies",
+      "videoUrl":"https://content.jwplatform.com/videos/zult4G0n-HTwjdeay.mp4",
+      "videoImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_type_frozen.png"
+   }
+]
 
