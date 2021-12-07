@@ -9,30 +9,30 @@
         "status":"Waiting",
         "name":"Sakoon",
         "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png",
-        "description":"Shosha is best"
+        "description":"Sakoon is best"
     },
     {
         "status":"Close",
         "name":"Chat House",
         "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_cuba.png",
-        "description":"Shosha is best"
+        "description":"Chat is best"
     },
     {
         "status":"Open",
         "name":"Radhe Chaat",
         "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_england.png",
-        "description":"Shosha is best"
+        "description":"Chaat is good"
     },
     {
         "status":"Busy",
         "name":"Madras cafe",
         "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_france.png",
-        "description":"Shosha is best"
+        "description":"cafe is best"
     },
     {
         "status":"Open",
         "name":"Curry up now",
         "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_ireland.png",
-        "description":"Shosha is best"
+        "description":"Curry is best"
     }
 ]
