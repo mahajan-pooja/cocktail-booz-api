@@ -1,7 +1,32 @@
 [
     {
-        "countryID":"1",
-        "countryName":"Brazil",
-        "countryImage":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
+        "status":"Busy",
+        "name":"Shosha",
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
+    },
+    {
+        "status":"Waiting",
+        "name":"Sakoon",
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png"
+    },
+    {
+        "status":"Close",
+        "name":"Chat House",
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_cuba.png"
+    },
+    {
+        "status":"Open",
+        "name":"Radhe Chaat",
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_england.png"
+    },
+    {
+        "status":"Busy",
+        "name":"Madras cafe",
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_france.png"
+    },
+    {
+        "status":"Open",
+        "name":"Curry up now",
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_ireland.png"
     }
 ]
