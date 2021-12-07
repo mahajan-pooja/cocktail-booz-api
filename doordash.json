@@ -2,31 +2,37 @@
     {
         "status":"Busy",
         "name":"Shosha",
-        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png"
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_brazil.png",
+        "description":"Shosha is best"
     },
     {
         "status":"Waiting",
         "name":"Sakoon",
-        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png"
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_canada.png",
+        "description":"Shosha is best"
     },
     {
         "status":"Close",
         "name":"Chat House",
-        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_cuba.png"
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_cuba.png",
+        "description":"Shosha is best"
     },
     {
         "status":"Open",
         "name":"Radhe Chaat",
-        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_england.png"
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_england.png",
+        "description":"Shosha is best"
     },
     {
         "status":"Busy",
         "name":"Madras cafe",
-        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_france.png"
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_france.png",
+        "description":"Shosha is best"
     },
     {
         "status":"Open",
         "name":"Curry up now",
-        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_ireland.png"
+        "cover_img_url":"https://images.cocktailflow.com/v1/collection/w_300,h_270/collection_ireland.png",
+        "description":"Shosha is best"
     }
 ]
